@@ -13,5 +13,5 @@ I enjoy **creating scalable web applications**, exploring **backend systems**, a
 - **Database:** MySQL, Firebase  
 - **Tools:** Git, GitHub, VS Code, Figma, Vercel 
 
-- 💻 **GitHub:** [github.com/Anisha](https://github.com/Anisha)  
-- 🔗 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- 💻 **GitHub:** [github.com/Anisha](https://github.com/AnieSinha)  
+- 🔗 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anisha-sinha-29893b264/)
